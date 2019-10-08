@@ -26,6 +26,9 @@ namespace WebApplication6
                 app.UseDeveloperExceptionPage();
             }
 
+
+
+
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
